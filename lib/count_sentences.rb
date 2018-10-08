@@ -19,4 +19,3 @@ class String
     return sentence_count
   end
 end
-
